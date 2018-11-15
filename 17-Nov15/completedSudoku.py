@@ -1,6 +1,4 @@
 from os import listdir
-import pandas as pd
-
 
 SUDOKU_PATH = "sudoku"
 
